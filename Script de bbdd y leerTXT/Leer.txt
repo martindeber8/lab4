@@ -1,0 +1,12 @@
+Información necesaria para navegar por el proyecto:
+- Es necesario correr el script (inserts inclusive) de la bbdd que se encuentra fuera de la carpeta del proyecto
+- El único usuario habilitado es admin (usuario: admin // contraseña: admin).
+- Para acceder a algunos modulos (como alumnos y reportes) es necesario estar logueado como admin.
+- Loguearse como admin desbloquea funciones de ABMC de cursos y alumnos.
+- Hay algunos datos y archivos cargados a modo de ejemplo (algunos programas e imagenes)
+- En el modulo programas se encuentra la lista de los 5 programas mas descargados y la lista completa (se pueden deshabilitar estando logueado)
+- En el modulo Cursos se pueden observar los cursos disponibles y logueado se puede agregar nuevos cursos, modificar y ver la lista de alumnos por cada curso.
+- En el modulo Alumnos (hay que estar logueado para que aparezca) se puede hacer la ABMC de alumnos, agregar programas y hacer las inscripciones.
+- En el modulo Reportes se encuentra: 1.Lista de alumnos con descuentos, 2.Total facturado por curso, 3.Total Descuentos.
+- El proyecto cumple con todas las consignas pedidas e incluye algunas otras funcionalidades para que sea mas consistente con lo pedido.
+- El proyecto se realizo con GlassFish 5.0.1 y JDK 1.8_151 por problemas de compatibilidad (la carpeta sun de glassfish fue borrada para poder realizar el proyecto)
